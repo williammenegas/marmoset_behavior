@@ -119,4 +119,4 @@ dependencies:
     - werkzeug==2.2.2
     - wrapt==1.14.1
     - zipp==3.8.1
-prefix: C:\Users\Bizon\anaconda3\envs\deep_learning
+prefix: /home/menegas/miniconda3/envs/deep_learning
