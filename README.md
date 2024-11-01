@@ -4,4 +4,4 @@ Code for Menegas et al. (2024), High-throughput unsupervised quantification of p
 All data used to generate the main figures is available here in the "data" folder. To request access to raw data, please fill out this form:
 https://forms.gle/oCj8o3crMrq1yazS8
 
-If you have any questions, want to talk or collaborate, email me here: menegas at mit dot edu.
+If you have questions, comments, or are interested in collaborating, please contact me here: menegas[at]mit.edu
