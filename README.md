@@ -1,4 +1,7 @@
 # marmoset_behavior
+
+Note: code and data will be released upon publication.
+
 Code for Menegas et al. (2024), High-throughput unsupervised quantification of patterns in the natural behavior of marmosets.
 
 All data used to generate the main figures is available here in the "data" folder. To request access to raw data, please fill out this form:
